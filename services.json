@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name": "Hardware Repair",
+    "description":"All kind of hardware defects are fixed",
+    "image":"https://i.imgur.com/w3agrhQ.jpg"
+  },
+  {
+    "id":2,
+    "name": "Software Repair",
+    "description":"All kind of software defects are fixed",
+    "image":"https://sm.pcmag.com/t/pcmag_in/news/t/the-best-f/the-best-free-software-of-2020_7358.1920.jpg"
+  },
+  {
+    "id":3,
+    "name": "System Tuneup",
+    "description":"All kind of performance related issues are fixed",
+    "image":"https://www.fileour.com/wp-content/uploads/2019/11/AVG-PC-TuneUp-logo.jpg"
+  }
+]
